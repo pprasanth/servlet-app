@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/prasanthp/Projects/JAR files/tomcat-servlet-api-10.0.0-M4.jar"
+    ]
+}

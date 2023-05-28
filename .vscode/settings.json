@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/prasanthp/Projects/jars/javax.servlet-api.jar"
+    ]
+}
